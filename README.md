@@ -1,3 +1,5 @@
+# Inheritance
+
 <img src="https://user-images.githubusercontent.com/70295997/217183358-f7ff3014-3a30-4230-b8c3-798a3752c0e5.png" width=40> Mariah Carey can impressively sing up to 5 out of 8 octaves. Why does she have such a wide vocal range? Because of her inheritance. Queen Mimi’s mom is an opera singer and a vocal coach.
 
 <img src="https://user-images.githubusercontent.com/70295997/217183082-22847760-a2d7-4eb1-907c-80437709d917.png" width=40> In programming, Inheritance is one of the key concepts of Object Oriented Programming (OOP). It allows an object to be based on another object, which is useful when different objects are similar and share some common logic, but they are not identical. Inheritance sustains code reusability by allowing an object to reuse the code of another object while it adds its own logic as well.
